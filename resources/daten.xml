@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMitarbeiter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mitarbeiter>
+    <Vorname>Claudia</Vorname>
+    <Nachname>Johmann</Nachname>
+    <Anrede>Frau</Anrede>
+    <Personalnummer>1</Personalnummer>
+    <Geburtsdatum xsi:nil="true" />
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Wolfgang</Vorname>
+    <Nachname>Petry</Nachname>
+    <Anrede>Herr</Anrede>
+    <Personalnummer>2</Personalnummer>
+    <Geburtsdatum>1990-12-24T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Wolfgang</Vorname>
+    <Nachname>Ambros</Nachname>
+    <Anrede>Frau</Anrede>
+    <Personalnummer>3</Personalnummer>
+    <Geburtsdatum>1988-11-17T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Gabi</Vorname>
+    <Nachname>Maier</Nachname>
+    <Anrede>Frau</Anrede>
+    <Personalnummer>4</Personalnummer>
+    <Geburtsdatum>1956-01-02T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Peter</Vorname>
+    <Nachname>Zwegert</Nachname>
+    <Anrede>Herr</Anrede>
+    <Personalnummer>5</Personalnummer>
+    <Geburtsdatum>1989-11-25T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Hans</Vorname>
+    <Nachname>Dampf</Nachname>
+    <Anrede>Herr</Anrede>
+    <Personalnummer>6</Personalnummer>
+    <Geburtsdatum>1988-06-12T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+  <Mitarbeiter>
+    <Vorname>Alexander</Vorname>
+    <Nachname>Markus</Nachname>
+    <Anrede>Herr</Anrede>
+    <Personalnummer>8</Personalnummer>
+    <Geburtsdatum>2018-01-01T00:00:00</Geburtsdatum>
+  </Mitarbeiter>
+</ArrayOfMitarbeiter>
